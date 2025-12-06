@@ -1,0 +1,4 @@
+Run this command in vs code (Terminal):-  
+		cd "/Users/apple/Coding skills project/"
+g++ -std=c++17 studentrecord.cpp -o studentrecord
+./studentrecord
